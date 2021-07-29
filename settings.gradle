@@ -1,0 +1,3 @@
+include ':AppInfoSDK'
+include ':app'
+rootProject.name = "JT Task1"
